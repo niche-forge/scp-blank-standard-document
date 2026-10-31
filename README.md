@@ -1,5 +1,10 @@
 # SCP Foundation Blank Standard Document Template
 
+
+<img width="1424" height="2015" alt="Screenshot_20261031_230642_com_hihonor_photos_GalleryMain" src="https://github.com/user-attachments/assets/85ca6823-194d-4918-b596-bd4125adce87" />
+
+
+
 A high-resolution (300 DPI) A4-sized SCP Foundation document template built with GIMP. It is designed to help creators quickly generate standard, well-formatted physical copies of containment files.
 
 ## Files Included
